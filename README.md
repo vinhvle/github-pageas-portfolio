@@ -1,7 +1,7 @@
 # github-pages-portfolio
 
 The github-pages-portfolio repository includes three coding projects: PacMen Exercise, Eye Exercise and Real Time Bus Tracker.
-The run any of the projects, simply pull the project, and open the html file in a browser.
+To run any of the projects, simply pull the project, and open the html file in a browser.
 The repository content will continue to grow as the semester progresses. 
 
 Copyright 2022 Vinh Le
